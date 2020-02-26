@@ -1,5 +1,3 @@
-# Masalah yang dihadapi selama mengikuti Mata Kuliah Proyek 1. (1)
-## Beserta solusi.
 
 Terdapat berbagai macam masalah yang saya hadapi ketika melakukan pembelajaran mata kuliah proyek ini yaitu:
 -	Kurangnya waktu yang diperlukan untuk melakukan pembelajaran/praktek (dilihat dari waktu pengumpulan tugas yang kadang-kadang terlambat.
