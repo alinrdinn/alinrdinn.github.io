@@ -2,7 +2,7 @@
 title: "About"
 excerpt: "Kamu sedang melihat halaman tentang Ali Nurdin"
 sitemap: false
-permalink: /about/
+permalink: /404.html
 ---
 
 Nama: Ali Nurdin
